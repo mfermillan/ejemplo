@@ -16,3 +16,5 @@ app.use(require('./routes/rutas'));
 app.listen(app.get('port'));
 console.log("mi primer sevidor");
 
+//data base
+
